@@ -1,0 +1,26 @@
+table {
+    text-align: left;
+    width: 80%;
+    margin: 0 auto;
+}
+
+tr {
+    margin: 2px;
+    background: lightgray;
+}
+
+thead tr, .header-of-left th{
+    background: #939090;
+}
+
+td, th {
+    padding: 4px;
+}
+
+.error {
+    background: #ec9f9f;
+    border: 2px solid red;
+    padding: 20px;
+    margin: 10px auto;
+    width: 80%;
+}
